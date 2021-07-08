@@ -1,4 +1,4 @@
-## Eae!!! Eu sou o Ruan Matheus (Ruzy)
+## Hey!!! My name is Ruan Matheus (Ruzy), Developer Softwares from Brazil
  <div>
   <a href="https://github.com/RuzyDev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RuzyDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,12 +11,12 @@
   <img align="center" alt="Ruzy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ruzy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ruzy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Ruzy-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Ruzy-yoda" src="https://darrenkearney.me/wp-content/uploads/2015/07/hacking_highfive2_128x128.gif">
 </div>
 
   ##
 
-<div> 
+<div>
   <a href="https://instagram.com/ruanmatheusruzy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%79ff97?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
  <a href="https://twitter.com/ruanmatheusruzy" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%79ff97?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
