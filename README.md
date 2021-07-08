@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Ruan Matheus (Ruzy)
+## Opa! Eu sou o Ruan Matheus (Ruzy)
  <div>
   <a href="https://github.com/RuzyDev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RuzyDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
