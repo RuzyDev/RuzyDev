@@ -19,7 +19,7 @@
 
 <div> 
   <a href="https://instagram.com/ruanmatheusruzy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/ruanmatheusruzy" target="_blank"><img src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&logoColor=green&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F" target="_blank"></a>
+ 	<a href="https://twitter.com/ruanmatheusruzy" target="_blank"><img src="https://img.shields.io/twitter/follow/ruanmatheusruzy?color=blue&label=Twitter&logo=twitter&logoColor=blue&style=for-the-badge" target="_blank"></a>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
