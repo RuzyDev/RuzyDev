@@ -14,8 +14,14 @@
   <img align="right" alt="Ruzy-yoda" src="https://darrenkearney.me/wp-content/uploads/2015/07/hacking_highfive2_128x128.gif">
 </div>
 
-  ##
+ ##
+ 
+ <div>
+  <img align="center" alt="Ruzy-yoda" src="https://cdn.discordapp.com/attachments/363078619431698443/862881710719107132/401a7f559252ebc_2.gif">
+ <div/>
 
+  ##
+  
 <div>
   <a href="https://instagram.com/ruanmatheusruzy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%79ff97?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
