@@ -24,9 +24,6 @@
   ##
   
 <div>
-  <a href="https://instagram.com/ruanmatheus.ruzy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%79ff97?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
- <a href="https://twitter.com/ruanmatheusruzy" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%79ff97?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
