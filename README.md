@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=00F71D&vCenter=true&lines=Hey!!+My+name+is+Ruan+Matheus+(Ruzy)%2C+Android+Developer+from+Brazil;Android+Developer+from+Brazil">  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F700&width=435&lines=Hello%2C+I'm+Ruan+Matheus+(Ruzy)">  </a>
  <img src="https://cdn.discordapp.com/attachments/862883133962977284/862885851231158302/halloween-pixel-sticker-for-ios-android-giphy-transparent-pixel-art-250_200.gif" width="50">
 </p>
 
