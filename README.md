@@ -18,7 +18,6 @@
 
  
 <div style="display: inline_block"><br>
-  <img align="right" alt="Ruzy-yoda" src="https://darrenkearney.me/wp-content/uploads/2015/07/hacking_highfive2_128x128.gif">
   <img align="center" alt="Ruzy-yoda" height="120" width="700" src="https://cdn.discordapp.com/attachments/862883133962977284/862884101224661012/fundo_git.gif">
 <div/>
 
