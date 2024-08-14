@@ -66,7 +66,3 @@ Olá! Sou Ruan Matheus, também conhecido como Ruzy. Sou um entusiasta por desen
 <div>
   <img align="center" alt="Ruzy-yoda" height="120" width="700" src="https://cdn.discordapp.com/attachments/862883133962977284/862884101224661012/fundo_git.gif">
 <div>
-
-## Contribuições 🐍
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
