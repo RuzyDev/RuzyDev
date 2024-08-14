@@ -11,15 +11,35 @@ Olá! Sou Ruan Matheus, também conhecido como Ruzy. Sou um entusiasta por desen
 
 ## Habilidades 🚀
 
-<div style="display: inline_block">
-  <img align="center" alt="Ruzy-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Ruzy-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Ruzy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ruzy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-</div>
+**Linguagens:**
 
-* **Mobile:** Android (Kotlin, Java), iOS (Swift)
-* **Outras:** Git, GitHub
+[![Linguagens](https://skillicons.dev/icons?i=java,kotlin,swift,javascript&theme=dark)](https://skillicons.dev)
+
+* Java
+* Kotlin
+* Swift
+* JavaScript
+
+**Mobile:**
+
+[![Mobile](https://skillicons.dev/icons?i=androidstudio,swift&theme=dark)](https://skillicons.dev)
+
+* Android (Jetpack Compose)
+* iOS (SwiftUI)
+* Kotlin Multiplatform
+
+**Outras Tecnologias:**
+
+* Bancos de Dados (Relacionais e Não Relacionais)
+* Design e UX/UI
+* Git, Metodologias Ágeis
+* Firebase (Crashlytics, ML Kit)
+* OpenCV
+* Elastic Search
+* Desenvolvimento Full-Stack (Backend Java, Frontend React)
+* Post Notifications
+* Testes Unitários
+* Empreendedorismo e Gestão de Projetos
 
 ## Projetos Destaque ✨
 
@@ -28,18 +48,18 @@ Olá! Sou Ruan Matheus, também conhecido como Ruzy. Sou um entusiasta por desen
 
 ## Estatísticas 📊
 
-<div align="center">  
+<div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuzyDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ## Vamos nos conectar! 🤝
 
-<div style="display: inline_block">
+<div>
   <a href="https://www.linkedin.com/in/seu-usuario-linkedin">
-    <img align="center" alt="LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:seu-email@example.com">
-    <img align="center" alt="Email" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-original.svg" />
+  <a href="mailto:ruan.ruzy@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
 
