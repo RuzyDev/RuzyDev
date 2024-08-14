@@ -4,7 +4,8 @@
 </p>
 
 <div align="center">  
-   <img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuzyDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuzyDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" align="right" alt="Ruzy-yoda" src="https://darrenkearney.me/wp-content/uploads/2015/07/hacking_highfive2_128x128.gif">
 </div>
 
 <div style="display: inline_block"><br>
