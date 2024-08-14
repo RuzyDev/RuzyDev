@@ -55,7 +55,7 @@ Olá! Sou Ruan Matheus, também conhecido como Ruzy. Sou um entusiasta por desen
 ## Vamos nos conectar! 🤝
 
 <div>
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin">
+  <a href="https://www.linkedin.com/in/ruan-matheus-1101a8220/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ruan.ruzy@gmail.com">
