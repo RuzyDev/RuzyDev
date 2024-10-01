@@ -43,8 +43,7 @@ Olá! Sou Ruan Matheus, também conhecido como Ruzy. Sou um entusiasta por desen
 
 ## Projetos Destaque ✨
 
-* **[Nome do Projeto 1]** - Breve descrição do projeto e link para o repositório.
-* **[Nome do Projeto 2]** - Breve descrição do projeto e link para o repositório.
+* **[AnimesHub]** - App de animes e mangás - https://github.com/RuzyDev/AnimesHub.
 
 ## Estatísticas 📊
 
